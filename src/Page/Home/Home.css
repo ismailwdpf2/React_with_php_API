@@ -1,0 +1,23 @@
+.container{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+.cpic{
+    display: block;
+    width:95%;
+  }
+  .card2{
+    height: 280px !important;
+    width: 300px !important;
+    margin: 10px;
+    border: 1px solid rgb(163, 160, 160);
+    border-radius: 5px;
+    }
+  .card-img-top{
+    height: 240px !important;
+  }
+  .card2:hover {
+    transform: rotate(5deg); /* Replace 90deg with the desired rotation angle */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    transition: 0.4s;
+  }
+  

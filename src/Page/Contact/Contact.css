@@ -1,0 +1,15 @@
+#Contact{
+    color: rgb(29, 94, 245);
+    background-color: rgb(218, 213, 213);
+    border: 2px solid rgb(134, 134, 137);
+}
+span{
+    color: black;
+}
+.form-group{
+    margin-top: 10px;
+}
+.from{
+    background-color: beige;
+    border:  2 px solid rgb(175, 172, 172);
+}

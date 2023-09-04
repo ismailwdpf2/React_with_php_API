@@ -1,0 +1,48 @@
+.navItem {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.navItem:hover {
+  transition: 0.2s;
+  border-top: 4px solid #ffffff;
+  border-bottom: 4px solid #ffffff;
+  color: black !important;
+}
+
+.logo {
+  height: 70px;
+  width: 90px;
+  margin-top:15px !important;
+  margin-right: 200px;
+}
+
+.navMenu {
+  background-color: rgb(52, 105, 237);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.mar {
+  height: 35px;
+  margin: 10px;
+  margin: 20px;
+  font-size: 25px;
+  color: #f10d0d;
+  text-shadow: 2px 1px 2px #323030;
+}

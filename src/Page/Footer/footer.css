@@ -1,0 +1,23 @@
+footer {
+    background: rgb(35, 61, 225) !important;
+    color: #f90d0d;
+    font-size: 14px;
+    height: 100%;
+    
+  }
+  ol {
+   list-style-type: none;
+   font-size: 16px;
+  }
+  .text-white{
+    text-decoration: none ;
+  }
+  
+  .copyright {
+    text-align: center;
+  }
+  
+  h5{
+    color: rgb(233, 245, 5);
+  
+  }
